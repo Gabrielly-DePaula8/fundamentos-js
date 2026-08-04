@@ -1,0 +1,1 @@
+console.log('O nome do cliente é $ {cliente.nome} e essa pessoa tem $ {cliente.idade}' )
